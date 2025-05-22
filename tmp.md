@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="3rd_wave_marketing_logo.png" alt="Left" width="45%" align="left">
-  <img src="3rd_wave_marketing_logo.png" alt="Right" width="45%" align="right">
+  <img height="80" src="3rd_wave_marketing_logo.png" align="left">
+  <img height="80" src="google-logo.png" align="right">
 </p>
 <br clear="both"> <!-- Prevents text from wrapping weirdly -->
-
 
 # AI Audit/Readiness Assessment Statement of Work
 
