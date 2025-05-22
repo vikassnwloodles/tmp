@@ -1,7 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <img src="3rd_wave_marketing_logo.png" alt="Service Provider Logo" style="height: 60px; max-width: 45%;">
-  <img src="3rd_wave_marketing_logo.png" alt="Client Logo" style="height: 60px; max-width: 45%;">
-</div>
+<p align="center">
+  <img src="3rd_wave_marketing_logo.png" alt="Left" width="45%" align="left">
+  <img src="3rd_wave_marketing_logo.png" alt="Right" width="45%" align="right">
+</p>
+<br clear="both"> <!-- Prevents text from wrapping weirdly -->
+
 
 # AI Audit/Readiness Assessment Statement of Work
 
