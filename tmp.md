@@ -1,10 +1,15 @@
 <p align="center">
   <img height="80" src="3rd_wave_marketing_logo.png" align="left">
-  <img height="80" src="google-logo.png" align="right">
+  <img height="80" src="nsf_logo.png" align="right">
 </p>
 <br clear="both"> <!-- Prevents text from wrapping weirdly -->
+<br><br><br> <!-- Adds 3 line breaks of vertical space -->
+<br><br><br> <!-- Adds 3 line breaks of vertical space -->
+<br><br><br> <!-- Adds 3 line breaks of vertical space -->
+<br><br><br> <!-- Adds 3 line breaks of vertical space -->
 
-# AI Audit/Readiness Assessment Statement of Work
+
+# AI Audit/Readiness Assessment Statement of Work Work is
 
 This Statement of Work (SOW) outlines the integration of AI modules to conduct a comprehensive audit aligned with Acme Community Services’ strategic, operational, and ethical goals. The assessment will evaluate AI readiness across leadership, data infrastructure, use cases, and governance, leveraging these tools to streamline processes and ensure compliance.
 
