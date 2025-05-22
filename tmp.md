@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <img src="../assets/3rd_wave_marketing_logo.png" alt="Service Provider Logo" style="height: 60px; max-width: 45%;">
-  <img src="../assets/3rd_wave_marketing_logo.png" alt="Client Logo" style="height: 60px; max-width: 45%;">
+  <img src="3rd_wave_marketing_logo.png" alt="Service Provider Logo" style="height: 60px; max-width: 45%;">
+  <img src="3rd_wave_marketing_logo.png" alt="Client Logo" style="height: 60px; max-width: 45%;">
 </div>
 
 # AI Audit/Readiness Assessment Statement of Work
